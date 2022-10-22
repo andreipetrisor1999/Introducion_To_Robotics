@@ -14,5 +14,6 @@ In this homework, I created the Repo and the README file, which i extended with 
 HOMEWORK #1
 
 In this homework, using 3 potentiometers, I had to control the colors of a RGB LED, one for each color.
+Pictures can be seen in the pictures directory.
 
 ============================================================================================
