@@ -15,6 +15,6 @@ HOMEWORK #1
 
 In this homework, using 3 potentiometers, I had to control the colors of a RGB LED, one for each color.
 Pictures can be seen in the pictures directory.
-
 Video Link: https://youtube.com/shorts/Nvk3KceOF58?feature=share
+
 ============================================================================================
