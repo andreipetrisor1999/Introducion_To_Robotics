@@ -18,3 +18,10 @@ Pictures can be seen in the pictures directory.
 Video Link: https://youtube.com/shorts/Nvk3KceOF58?feature=share
 
 ============================================================================================
+
+HOMEWORK #2
+
+In this task, I created a simulation of a pedestrian crosswalk, activated by a button, which begins the procces of turning the traffic lights from green to yellow, then from yellow to green, then turning the crosswalk lights green. The project has a buzzer included, that emits intermittent sounds depending on the stage of the crosswalk's green light.
+Video Link: https://www.youtube.com/shorts/QhKgNJWdnJU
+
+============================================================================================
