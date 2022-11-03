@@ -73,7 +73,7 @@ void stateThree (){
 }
 
 void stateFour (){
-  for(int i = 0; i <= 4000; i += 800){
+  for(int i = 0; i <= 5; i ++){
     digitalWrite(pedGreenLightPin, LOW);
     tone(buzzerPin, 1200);
     delay(400);
