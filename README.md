@@ -31,3 +31,7 @@ HOMEWORK #3
 In this task, I used a joystick to control the segments of a one digit 7 - segment display. Pressing the button 2 times will change the value of the segment (i.e. ON->OFF or OFF->ON). Pressing down the button for at least 3 seconds will reset the display and the segment will go back to it's first state (DP segment).
 Missing the feature where the segment is changed by moving the X-Axis.
 Video Link: https://youtube.com/shorts/1dvA3YBqk18?feature=share
+
+HOMEWORK #4
+
+In this task, using a joystick, I controlled the digits of a 4-digit 7 segment display. Moving left and right will select the digit that will be changed. Pressing the joystick will lock-in on the digit. While locked in, I can only use the other axis (in my case the X axis) to increase or decrease the digit's value.
