@@ -35,3 +35,7 @@ Video Link: https://youtube.com/shorts/1dvA3YBqk18?feature=share
 HOMEWORK #4
 
 In this task, using a joystick, I controlled the digits of a 4-digit 7 segment display. Moving left and right will select the digit that will be changed. Pressing the joystick will lock-in on the digit. While locked in, I can only use the other axis (in my case the X axis) to increase or decrease the digit's value.
+
+HOMEWORK #5
+
+The beggining of a game. A simple menu with different settings that i will be using for a matrix game. It has a start game option, high scores, settings, about and how to play
